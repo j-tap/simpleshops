@@ -1,0 +1,12 @@
+{
+  "itemGroup.Simple Shops": "Simple Shops",
+
+  "item.simpleshops.green_stockbar": "Зелёный индикатор наличия",
+  "item.simpleshops.red_stockbar": "Красный индикатор наличия",
+  "item.simpleshops.wooden_stockbar": "Деревянный индикатор наличия",
+  "item.simpleshops.quartz_stockbar": "Кварцевый индикатор наличия",
+
+  "block.simpleshops.simple_shop": "Торговая лавка",
+  "block.simpleshops.creative_simple_shop": "Креативная Торговая лавка"
+	
+}
